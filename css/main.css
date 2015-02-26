@@ -245,3 +245,19 @@ main {
     text-decoration: none;
 }
 
+/**========================================================
+    7 - FOOTER
+========================================================**/
+
+footer {
+    margin: auto;
+    width: 95%; 
+    color: black;
+}
+
+#footer-logo {
+    margin: 0;
+    text-align: center;
+    padding-top: 1rem;
+    color: black;
+}
