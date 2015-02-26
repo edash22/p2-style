@@ -6,7 +6,7 @@
     Browsers supported: IE8+, Chrome35+, Firefox34+
 
     Known limitations:
-    - 
+    - none (yet)
 
     CONTENTS
         1 - COLORS
@@ -52,20 +52,8 @@
     color: #8E0A0A;
 }
 
-.orangey {
-    color: #C73924;
-}
-
-.yellowish {
-    color: #E08745;
-}
-
 .dk-green {
     color: #32402D;
-}
-
-.greyish {
-    color: #4F423B;
 }
 
 /**========================================================
