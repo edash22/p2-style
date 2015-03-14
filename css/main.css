@@ -10,7 +10,7 @@
 
     CONTENTS
         1 - COLORS
-        2 - GENERAL 
+        2 - GENERAL
         3 - TYPE
         4 - HEADER
         5 - CONTENT
@@ -21,7 +21,7 @@
 ========================================================**/
 
 /**========================================================
-    1 - COLORS 
+    1 - COLORS
 ========================================================**/
 
 .dark-red-bg {
@@ -57,7 +57,7 @@
 }
 
 /**========================================================
-    2 - GENERAL 
+    2 - GENERAL
 ========================================================**/
 
 body {
@@ -74,7 +74,7 @@ body {
     margin: 0px auto;
 }
 
-/* clearfix from: http://css-tricks.com/snippets/css/clear-fix/ 
+/* clearfix from: http://css-tricks.com/snippets/css/clear-fix/
    Good for IE8 and above */
 .clearfix:after {
     content: "";
@@ -174,7 +174,7 @@ main {
 }
 
 #content {
-    width: 95%; 
+    width: 95%;
     max-width: 1200px;
     margin: auto;
 }
@@ -249,7 +249,7 @@ main {
 
 footer {
     margin: auto;
-    width: 95%; 
+    width: 95%;
     max-width: 1200px;
     color: black;
 }
@@ -265,8 +265,8 @@ footer {
     8 - MEDIA QUERIES
 ========================================================**/
 
-/* Above 800px wide: 
-   (1) two columns (33/66) for the main content 
+/* Above 800px wide:
+   (1) two columns (33/66) for the main content
    (2) shift some footer information to the left
 */
 @media (min-width: 800px) {
@@ -292,8 +292,8 @@ footer {
     }
 }
 
-/* Above 1100px wide: 
-   (1) two equal columns for the main content 
+/* Above 1100px wide:
+   (1) two equal columns for the main content
    (2) larger image examples
    (3) larger body, h1 & h2
 */
